@@ -53,10 +53,11 @@ If you are not using the Proagro datalogger, you can implement your own configur
 The gust threshold (Raf) is not part of this library. It remains configurable in the datalogger or user application, since it is a data analysis parameter rather than a sensor specification.
 
 
-🏷️ Versión
-v1.0.0 – Primera versión oficial.
+🏷️ Version
+v1.0.0 – First official release.
 
-📧 Autor
+📧 Author
 Proagro Technology
-Desarrollada por Jhonny Vásquez Jiménez
+Developed by Jhonny Vásquez Jiménez
+
 
